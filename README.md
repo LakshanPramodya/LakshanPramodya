@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LakshanPramodya
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/lakshan-pramodya-a046b8242/
 
 <!---
